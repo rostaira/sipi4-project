@@ -32,8 +32,8 @@ Saya bertanggung jawab pada:
 ## Desain Figma
 https://www.figma.com/design/7yU42b42rEtDHtLByvV8u8/SIPI4-DEKSTOP
 ## Screenshot
-Halaman Home:              public/images/halaman_home.png
-Halaman Gedung dan CRUD:   public/images/halaman_gedung.png
-Form Tambah:               public/images/form_tambah.png
-Form Ubah:                 public/images/form_ubah.png
-Halaman Peminjaman:        public/images/halaman_detailjadwal.png
+* Halaman Home:              public/images/halaman_home.png
+* Halaman Gedung dan CRUD:   public/images/halaman_gedung.png
+* Form Tambah:               public/images/form_tambah.png
+* Form Ubah:                 public/images/form_ubah.png
+* Halaman Peminjaman:        public/images/halaman_detailjadwal.png
