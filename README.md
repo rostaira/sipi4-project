@@ -27,6 +27,7 @@ Saya bertanggung jawab pada:
 * MySQL
 * HTML
 * CSS (Bootstrap)
+* JavaScript
 
 ## Screenshot
 Halaman Home:              public/images/halaman_home.png
